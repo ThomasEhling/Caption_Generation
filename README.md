@@ -18,7 +18,7 @@ The architecture between our filesis the following :
 
 If you wish to implement the project, please copy the "/data" folder into your drive and mount it locally.
 
-The /data folder contains also all the model weigths, and the plots.
+The /data folder contains also all the model weigths.
 
 The /doc folder contains both of our report, for any more details please refer to the poriginal tutorial or these reports.
 
