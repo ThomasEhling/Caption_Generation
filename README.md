@@ -12,7 +12,7 @@ We implemented our own model for the feature extraction, based on the vgg16 arch
 
 We are using google colab to accelerate the data preparation and training process.
 
-The architecture between our filesis the following :
+The architecture between our files is the following :
 
 <img src=https://imgur.com/lJnjydH.png width="600px"/>
 
@@ -23,6 +23,9 @@ The /data folder contains also all the model weigths.
 The /doc folder contains both of our report, for any more details please refer to the poriginal tutorial or these reports.
 
 The /src folder contains all the source code.
+
+The main model architecture is :
+<img src=https://imgur.com/MrYAQ61.png width="600px"/>
 
 Our Final results are :
 <img src=https://imgur.com/I8eLTkw.png width="600px"/>
